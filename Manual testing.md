@@ -24,6 +24,8 @@
 7. Жизненный цикл разработки ПО. Гибкие методологии разработки ПО
    * [Описание задания](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-14)
    * [Решение](https://docs.google.com/document/d/1qrtZmmzLMrS90JxUUFWYrcTpTYcwhLR7K1cOTtvhq8E/edit?usp=sharing)
+  
+   
 **Курсовой проект к модулю «Ручное тестирование веб-приложений»**
    * [Описание задания](https://github.com/netology-code/iqa-diplom)
    * [Решение](https://docs.google.com/spreadsheets/d/18jTKMzq67Ho7YkQ_4biVfMem_vatFYA_DMslCHsbx1k/edit?usp=sharing)
